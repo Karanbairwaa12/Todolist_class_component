@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+package.json
+.grunt
+package-lock.json
+
 # production
 /build
 
